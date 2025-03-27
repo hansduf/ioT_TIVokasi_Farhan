@@ -1,1 +1,1 @@
-File laporN PRktikum di folder masing masing projek
+File laporan praktikum di folder masing masing projek
